@@ -1,5 +1,5 @@
 # Store Manager
-[5/13] [Desenvolvimento Back-end](https://github.com/G-Alves1/Trybe/tree/main/03_Desenvolvimento-Back-end)
+[5/13] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
 
 ---
 
@@ -44,7 +44,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/store-manager.git
+    git clone git@github.com:xitusz/store-manager.git
   ```
 
 ---
